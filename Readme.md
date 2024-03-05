@@ -1,1 +1,1 @@
-# Pii redaction using LLM and verified using Lanhchain
+# Pii redaction using LLM and verified using Langchain
